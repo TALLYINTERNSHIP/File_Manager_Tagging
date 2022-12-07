@@ -1,4 +1,4 @@
-# EasyTutoFileManager
+# File Manager And Tagging
 
 Simple File Manager App 
 
